@@ -13,5 +13,5 @@ now save this into file and perform some operations.
 
 create this simple app by using Python only
 1. create this app using basic python only.
-2. use Sql-Lite and create same.
+2. use Sql-Lite and create same. ✅
 3. use Mongo DB and create same.
